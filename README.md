@@ -32,6 +32,5 @@ I hold a **BTS SIO – SISR** diploma (Infrastructure & Networks), and I'm deepl
 ## 📫 Contact
 
 [📎 LinkedIn](https://www.linkedin.com/in/eddy-cohen/)  
-✉️ Email: *you@example.com*  
 🌍 Location: Marseille, France
 
