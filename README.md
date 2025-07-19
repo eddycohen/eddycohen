@@ -57,7 +57,7 @@ Recently, I designed and deployed a full **virtual infrastructure**
 
 ## 🧪 Projects
 
-### 🔧 [CS2-Borderless-ResSwitch](https://github.com/yourusername/CS2-Borderless-ResSwitch)
+### 🔧 [CS2-Borderless-ResSwitch](https://github.com/eddycohen/CS2-Borderless-ResSwitch).
 A lightweight `.bat` launcher that applies a matching Windows resolution for CS2 and restores your desktop res after quit - for perfect fullscreen borderless CS2 experience.  
 Includes resolution selector, native restore, auto-launch, clean UI.
 
